@@ -1,6 +1,6 @@
 # AnimeCatalog
 
-AnimeCatalog is a dynamic web application designed for anime enthusiasts to explore, track, and rate their favorite anime series. Utilizing the Jikan API, the application presents users with up-to-date information on popular and seasonal anime, including ratings, summaries, and visuals.
+AnimeCatalog is a dynamic mobile application designed for anime enthusiasts to explore, track, and rate their favorite anime series. Utilizing the Jikan API, the application presents users with up-to-date information on popular and seasonal anime, including ratings, summaries, and visuals.
 
 ## Features
 
