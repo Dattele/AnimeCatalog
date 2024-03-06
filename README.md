@@ -19,4 +19,6 @@ AnimeCatalog is a dynamic web application designed for anime enthusiasts to expl
 
 To get a local copy up and running follow these simple steps:
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Dattele/AnimeCatalog.git
+2. Navigate to the project directory: cd AnimeCatalog/
+3. Start the application on Visual Studio
